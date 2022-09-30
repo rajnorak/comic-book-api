@@ -1,46 +1,44 @@
 [
-
-    {
-        "id":1,
-        "name":"Kiteretsu Daihyakka",
-        "genre":["Science Fiction","Comedy-drama"],
-        "volumes":6
-        },
-     {
-        "id":2,
-        "name":"Doreamon",
-        "genre":["Futuristic","Comedy-drama"],
-        "volumes":8
-      },
-     {
-        "id":3,
-        "name":"Ninja hatori",
-        "genre":["TP","Comedy-drama"],
-        "volumes":2
-        },
-     {
-        "id":4,
-        "name":"Shinchan",
-        "genre":["Cute","Comedy-drama"],
-        "volumes":88
-        },
-    {
-        "id":5,
-        "name":"Ultimate Spider Man",
-        "genre":["Action","Comedy"],
-        "volumes":40
-        },
-    {
-        "id":6,
-        "name":"She-Hulk",
-        "genre":["Action","Comedy","Drama"],
-        "volumes":51
-    },
-    {
-		"id": 7,
+	{
+		"id": 1,
+		"name": "Kiteretsu Daihyakka",
+		"genre": ["Science Fiction", "Comedy-drama"],
+		"volumes": 6
+	},
+	{
+		"id": 2,
+		"name": "Doreamon",
+		"genre": ["Futuristic", "Comedy-drama"],
+		"volumes": 8
+	},
+	{
+		"id": 3,
+		"name": "Ninja hatori",
+		"genre": ["TP", "Comedy-drama"],
+		"volumes": 2
+	},
+	{
+		"id": 4,
+		"name": "Shinchan",
+		"genre": ["Cute", "Comedy-drama"],
+		"volumes": 88
+	},
+	{
+		"id": 5,
 		"name": "i don't know",
 		"genre": ["Science Fiction", "Comedy-drama"],
 		"volumes": 6
 	},
-    
+	{
+		"id": 6,
+		"name": "dpraemon",
+		"genre": ["Science Fiction", "Comedy-drama"],
+		"volumes": 9
+	},
+	{
+		"id": 8,
+		"name": "Maus",
+		"genre": ["history", "fiction", "autobiography", "biography"],
+		"volumes": 2
+	}
 ]
