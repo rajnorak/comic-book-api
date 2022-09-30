@@ -53,6 +53,11 @@
 	},
 	{
 		"id": 7,
+		"name": "Doom Patrol",
+		"genre": ["Comedy drama", "Futuristic"],
+		"volumes": 34
+	},
+    {
 		"name": "Overstreet Comic Book ",
 		"genre": ["Serious", "Serious-drama"],
 		"volumes": 51
