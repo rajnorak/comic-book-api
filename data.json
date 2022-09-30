@@ -4,6 +4,24 @@
         "name":"Kiteretsu Daihyakka",
         "genre":["Science Fiction","Comedy-drama"],
         "volumes":6
+        },
+     {
+        "id":2,
+        "name":"Doreamon",
+        "genre":["Futuristic","Comedy-drama"],
+        "volumes":8
+      },
+     {
+        "id":3,
+        "name":"Ninja hatori",
+        "genre":["TP","Comedy-drama"],
+        "volumes":2
+        },
+     {
+        "id":4,
+        "name":"Shinchan",
+        "genre":["Cute","Comedy-drama"],
+        "volumes":88
         }
     
 ]
