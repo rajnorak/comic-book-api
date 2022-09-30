@@ -52,6 +52,12 @@
 		"volumes": 9
 	},
 	{
+		"id": 7,
+		"name": "Overstreet Comic Book ",
+		"genre": ["Serious", "Serious-drama"],
+		"volumes": 51
+	},
+    {
 		"id": 8,
 		"name": "Maus",
 		"genre": ["history", "fiction", "autobiography", "biography"],
