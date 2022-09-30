@@ -53,6 +53,13 @@
 	},
 	{
 		"id": 7,
+		"name": "SHE-HULK",
+		"genre": ["Science Fiction", "Comedy-drama","Superhero","Fantasy"],
+		"volumes": 4
+	},
+
+	{
+		"id": 7,
 		"name": "Doom Patrol",
 		"genre": ["Comedy drama", "Futuristic"],
 		"volumes": 34
