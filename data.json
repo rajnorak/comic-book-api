@@ -42,5 +42,10 @@
 		"genre": ["Science Fiction", "Comedy-drama"],
 		"volumes": 6
 	},
-    
+    {
+        "id":8,
+        "name":"Shang-Chi Origin",
+        "genre":["Futuristic","Comedy-drama","Action"],
+        "volumes":3
+    }
 ]
