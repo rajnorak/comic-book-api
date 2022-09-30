@@ -52,6 +52,12 @@
 		"volumes": 9
 	},
 	{
+		"id": 9,
+		"name": "dell comics",
+		"genre": ["consist tom and jerry ", "Comedy-drama"],
+		"volumes": 13
+	},
+	{
 		"id": 7,
 		"name": "SHE-HULK",
 		"genre": ["Science Fiction", "Comedy-drama","Superhero","Fantasy"],
