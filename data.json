@@ -34,8 +34,8 @@
         "name":"Shang-Chi Origin",
         "genre":["Futuristic","Comedy-drama","Action"],
         "volumes":3
-    }
-]
+    },
+
 
 	   {
 		"id": 8,
@@ -44,20 +44,27 @@
 		"volumes": 6
 	},
     
-]
+
 	{
 		"id": 6,
 		"name": "dpraemon",
 		"genre": ["Science Fiction", "Comedy-drama"],
 		"volumes": 9
 	},
+	{
+		"id": 8,
+		"name": "Maus",
+		"genre": ["history", "fiction", "autobiography", "biography"],
+		"volumes": 2
+	},
+
 {
 		"id": 7,
 		"name": "Wings of Fire",
 		"genre": ["Autobiography"],
 		"volumes": 1
-	}
-]
+	},
+
 
     {
         "id": 1,
@@ -239,5 +246,6 @@
         "volumes": 23
     }
 ]
+
 
 
