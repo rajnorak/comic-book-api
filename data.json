@@ -35,4 +35,10 @@
 		"genre": ["Science Fiction", "Comedy-drama"],
 		"volumes": 9
 	}
+	{
+		"id": 7,
+		"name": "SHE-HULK",
+		"genre": ["Science Fiction", "Comedy-drama","Fantasy",""],
+		"volumes": 4
+	}
 ]
