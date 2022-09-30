@@ -48,7 +48,7 @@
 		"name": "dpraemon",
 		"genre": ["Science Fiction", "Comedy-drama"],
 		"volumes": 9
-	}
+	},
 {
 		"id": 7,
 		"name":"Chota bheem",
@@ -61,8 +61,11 @@
 		"genre": ["Action","Comedy","Drama"],
 		"volumes": 23
 	
-}
-
-    
+},
+	{
+		"id":9,
+        	"name":"Chainsaw Man",
+        	"genre":["Gore,fighting,action"],
+        	"volumes":2
+        }
 ]
-
