@@ -29,6 +29,12 @@
         "genre":["Action","Comedy"],
         "volumes":40
         },
+    {
+        "id":5,
+        "name":"She-Hulk",
+        "genre":["Action","Comedy","Drama"],
+        "volumes":51
+    }
     
     
 ]
