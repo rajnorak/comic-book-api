@@ -35,34 +35,30 @@
         "name":"She-Hulk",
         "genre":["Action","Comedy","Drama"],
         "volumes":51
-    },
+    	},
     {
-		"id": 7,
-		"name": "i don't know",
-		"genre": ["Science Fiction", "Comedy-drama"],
-		"volumes": 6
-	},
-
-	{
-		"id": 6,
-		"name": "dpraemon",
-		"genre": ["Science Fiction", "Comedy-drama"],
-		"volumes": 9
-	}
-{
-		"id": 7,
-		"name":"Chota bheem",
-		"genre": [" animated comedy adventure television series"],
-		"volumes": 1
-	},
-{
-		"id": 8,
-		"name":"Deadpool Classic",
-		"genre": ["Action","Comedy","Drama"],
-		"volumes": 23
-	
-}
-
-    
+	"id": 7,
+	"name": "i don't know",
+	"genre": ["Science Fiction", "Comedy-drama"],
+	"volumes": 6
+    	},
+    {
+	"id": 8,
+	"name": "dpraemon",
+	"genre": ["Science Fiction", "Comedy-drama"],
+	"volumes": 9
+   	},
+   {
+	"id": 9,
+	"name":"Chota bheem",
+	"genre": [" animated comedy adventure television series"],
+	"volumes": 1
+   	},
+   {
+	"id": 10,
+	"name":"Deadpool Classic",
+	"genre": ["Action","Comedy","Drama"],
+	"volumes": 23
+   	}
 ]
 
