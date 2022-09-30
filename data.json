@@ -35,4 +35,10 @@
 		"genre": ["Science Fiction", "Comedy-drama"],
 		"volumes": 9
 	}
-]
+	{
+		"id": 9,
+		"name": "dell comics",
+		"genre": ["consist tom and jerry ", "Comedy-drama"],
+		"volumes": 13
+	},
+
