@@ -54,7 +54,15 @@
 		"name":"Chota bheem",
 		"genre": [" animated comedy adventure television series"],
 		"volumes": 1
-	}
+	},
+{
+		"id": 8,
+		"name":"Deadpool Classic",
+		"genre": ["Action","Comedy","Drama"],
+		"volumes": 23
+	
+}
+
     
 ]
 
