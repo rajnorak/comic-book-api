@@ -29,6 +29,22 @@
 		"genre": ["Science Fiction", "Comedy-drama"],
 		"volumes": 6
 	},
+    {
+        "id":8,
+        "name":"Shang-Chi Origin",
+        "genre":["Futuristic","Comedy-drama","Action"],
+        "volumes":3
+    },
+
+
+	   {
+		"id": 8,
+		"name": "Spy Family",
+		"genre": ["Mystry", "Suspence"],
+		"volumes": 6
+	},
+    
+
 	{
 		"id": 6,
 		"name": "dpraemon",
@@ -40,5 +56,196 @@
 		"name": "Maus",
 		"genre": ["history", "fiction", "autobiography", "biography"],
 		"volumes": 2
-	}
+	},
+
+{
+		"id": 7,
+		"name": "Wings of Fire",
+		"genre": ["Autobiography"],
+		"volumes": 1
+	},
+
+
+    {
+        "id": 1,
+        "name": "Kiteretsu Daihyakka",
+        "genre": [
+            "Science Fiction",
+            "Comedy-drama"
+        ],
+        "volumes": 6
+    },
+    {
+        "id": 2,
+        "name": "Doreamon",
+        "genre": [
+            "Futuristic",
+            "Comedy-drama"
+        ],
+        "volumes": 8
+    },
+    {
+        "id": 3,
+        "name": "Ninja hatori",
+        "genre": [
+            "TP",
+            "Comedy-drama"
+        ],
+        "volumes": 2
+    },
+    {
+        "id": 4,
+        "name": "Shinchan",
+        "genre": [
+            "Cute",
+            "Comedy-drama"
+        ],
+        "volumes": 88
+    },
+    {
+        "id": 5,
+        "name": "Ultimate Spider Man",
+        "genre": [
+            "Action",
+            "Comedy"
+        ],
+        "volumes": 40
+    },
+    {
+        "id": 6,
+        "name": "She-Hulk",
+        "genre": [
+            "Action",
+            "Comedy",
+            "Drama"
+        ],
+        "volumes": 51
+    },
+    {
+        "id": 7,
+        "name": "i don't know",
+        "genre": [
+            "Science Fiction",
+            "Comedy-drama"
+        ],
+        "volumes": 6
+    },
+    {
+        "id": 8,
+        "name": "dpraemon",
+        "genre": [
+            "Science Fiction",
+            "Comedy-drama"
+        ],
+        "volumes": 9
+    },
+    {
+        "id": 9,
+        "name": "Chota bheem",
+        "genre": [
+            " animated comedy adventure television series"
+        ],
+        "volumes": 1
+    },
+    {
+        "id": 10,
+        "name": "Deadpool Classic",
+        "genre": [
+            "Action",
+            "Comedy",
+            "Drama"
+        ],
+        "volumes": 23
+    },
+    {
+        "id": 7,
+        "name": "i don't know",
+        "genre": [
+            "Science Fiction",
+            "Comedy-drama"
+        ],
+        "volumes": 6
+    },
+    {
+        "id": 8,
+        "name": "dpraemon",
+        "genre": [
+            "Science Fiction",
+            "Comedy-drama"
+        ],
+        "volumes": 9
+    },
+    {
+        "id": 9,
+        "name": "Chota bheem",
+        "genre": [
+            " animated comedy adventure television series"
+        ],
+        "volumes": 1
+    },
+    {
+        "id": 10,
+        "name": "Chacha Chaudhary and Sabu's Shoes",
+        "genre": [
+            " animated comedy  series"
+        ],
+        "volumes": 1
+    },
+    {
+        "id": 7,
+        "name": "i don't know",
+        "genre": [
+            "Science Fiction",
+            "Comedy-drama"
+        ],
+        "volumes": 6
+    },
+    {
+        "id": 6,
+        "name": "dpraemon",
+        "genre": [
+            "Science Fiction",
+            "Comedy-drama"
+        ],
+        "volumes": 9
+    },
+    {
+        "id": 7,
+        "name": "Chota bheem",
+        "genre": [
+            " animated comedy adventure television series"
+        ],
+        "volumes": 1
+    },
+    {
+        "id": 8,
+        "name": "Deadpool Classic",
+        "genre": [
+            "Action",
+            "Comedy",
+            "Drama"
+        ],
+        "volumes": 23
+    },
+    {
+        "id": 9,
+        "name": "Chainsaw Man",
+        "genre": [
+            "Gore,fighting,action"
+        ],
+        "volumes": 2
+    },
+    {
+        "id": 11,
+        "name": "Deadpool Classic",
+        "genre": [
+            "Action",
+            "Comedy",
+            "Drama"
+        ],
+        "volumes": 23
+    }
 ]
+
+
+
