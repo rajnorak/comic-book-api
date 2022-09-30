@@ -5,9 +5,6 @@
         "genre":["Science Fiction","Comedy-drama"],
         "volumes":6
         },
-        
-        
-    
      {
         "id":2,
         "name":"Doreamon",
@@ -25,13 +22,12 @@
         "name":"Shinchan",
         "genre":["Cute","Comedy-drama"],
         "volumes":88
-        },
-        {
-        "id":5,
-          "name":"i don't know",
-        "genre":["Science Fiction","Comedy-drama"],
-        "volumes":6
         }
-
+     {
+        "id":5,
+        "name":"She-Hulk",
+        "genre":["Action","Superhero","Fantasy","Comedy"],
+        "volumes":4
+        }
     
 ]
