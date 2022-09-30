@@ -44,23 +44,30 @@
 	},
 
 	{
-		"id": 6,
+		"id": 8,
 		"name": "dpraemon",
 		"genre": ["Science Fiction", "Comedy-drama"],
 		"volumes": 9
-	}
+	},
+  
 {
-		"id": 7,
+		"id": 9,
 		"name":"Chota bheem",
 		"genre": [" animated comedy adventure television series"],
 		"volumes": 1
 	},
 {
-		"id": 8,
+		"id": 10,
 		"name":"Chacha Chaudhary and Sabu's Shoes",
 		"genre": [" animated comedy  series"],
 		"volumes": 1
-	}
-    
+	},
+
+{
+    "id": 11,
+		"name":"Deadpool Classic",
+		"genre": ["Action","Comedy","Drama"],
+		"volumes": 23	
+}    
 ]
 
