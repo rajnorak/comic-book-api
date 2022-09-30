@@ -29,6 +29,14 @@
 		"genre": ["Science Fiction", "Comedy-drama"],
 		"volumes": 6
 	},
+	   {
+		"id": 8,
+		"name": "Spy Family",
+		"genre": ["Mystry", "Suspence"],
+		"volumes": 6
+	},
+    
+]
 	{
 		"id": 6,
 		"name": "dpraemon",
@@ -223,3 +231,4 @@
         "volumes": 23
     }
 ]
+
